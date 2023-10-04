@@ -65,8 +65,8 @@ sudo docker run --name=CONTAINER_NAME -d --restart=always -p 8000:EXTERNAL_PORT_
 The service is acceptable in Microsoft Azure host machine by IP address 20.47.114.156 and port number 8000.
 The service works on the target machine in Docker image. One admin user is registered with name `larisa` and 
 two ordinary users: 
-* `mefrill:lariska1`
-* `milky:lariska1`
+* `mefrill`
+* `milky`
 
 # Rest API endpoints
 
